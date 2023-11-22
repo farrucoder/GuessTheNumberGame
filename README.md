@@ -1,16 +1,9 @@
-# guessthenumber
+# GuessTheNumber
 
-A new Flutter project.
+Basic game and very minimal UI 
 
-## Getting Started
+![GuessTheNumber](https://github.com/farrucoder/GuessTheNumberGame/assets/114243390/5e9bd01c-94bd-47d5-8af3-a1e1d8b67789)
 
-This project is a starting point for a Flutter application.
+#OUT PUT
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Guess](https://github.com/farrucoder/GuessTheNumberGame/assets/114243390/ea2fda83-46d6-41f0-805c-f135a8a19abf)
